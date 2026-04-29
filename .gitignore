@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Виртуальные окружения
+env/
+venv/
+.venv/
+.env
+
+# Редакторы
+.vscode/
+.idea/
+
+# Логи и временные файлы
+*.log
+
+# Файл с данными (не храним в репозитории)
+movies.json
